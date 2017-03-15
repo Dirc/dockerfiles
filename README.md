@@ -1,5 +1,5 @@
 # Docker files
 ## Django example
-From docker tutorial: https://docs.docker.com/compose/django/
+See other github project: django_project
 ## Ansible server image
 Easy way to test your playbook.yml
