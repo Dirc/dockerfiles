@@ -18,3 +18,6 @@ docker run -it ansible/server:v2 /bin/bash
 ansible -m ping -c local -b all
 ansible -m shell -a 'echo "Hello World!"' -c local -b all
 ```
+
+## Dockerfile examples
+Dockerfiles created during Docker course on linuxacademy.com
